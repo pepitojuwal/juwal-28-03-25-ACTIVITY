@@ -23,7 +23,7 @@ function searchTitle (todos, title){
 }
 
 const userTodos = searchUserTodo(todos, 2);
-console.log(user1Todos); 
+console.log(userTodos); 
 
 const searchResults = searchTitle(todos, "GO tO");
 console.log(searchResults);
